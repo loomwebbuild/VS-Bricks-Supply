@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://karimnagar-red-bricks.local/sitemap.xml

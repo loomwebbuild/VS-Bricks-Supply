@@ -1,0 +1,6 @@
+{
+  "name": "Karimnagar Red Bricks",
+  "description": "Premium red brick supplier in Karimnagar, Telangana. Starting at ₹9 per brick. Zero breakage, exact quantity guaranteed, and direct site delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
